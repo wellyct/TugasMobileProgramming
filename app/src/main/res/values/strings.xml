@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HOSPITAL (UAS - 2402005584)</string>
+    <string name="cari">Find hospital..</string>
+    <string name="rumah_sakit">Hospital</string>
+    <string name="alamat">Alamat</string>
+    <string name="nama">Name</string>
+    <string name="name">Name  : </string>
+    <string name="address">Address : </string>
+    <string name="region">Region : </string>
+    <string name="phone">Phone  :</string>
+    <string name="province">Province\t: </string>
+</resources>

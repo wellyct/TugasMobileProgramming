@@ -1,0 +1,19 @@
+<resources>
+
+    <style name="Base.Theme.TugasMobileProgramming" parent="Theme.AppCompat">
+        <item name="colorPrimary">@color/primary_color</item>
+        <item name="colorPrimaryDark">@color/primary_dark_color</item>
+        <item name="colorAccent">@color/accent_color</item>
+        <item name="android:windowBackground">@color/background_color</item>
+    </style>
+
+    <style name="Theme.TugasMobileProgramming" parent="Base.Theme.TugasMobileProgramming">
+        <item name="android:toolbarStyle">@style/ToolbarStyle</item>
+    </style>
+
+    <style name="ToolbarStyle" parent="Widget.AppCompat.ActionBar">
+        <item name="android:background">@color/primary_color</item>
+        <item name="android:titleTextColor">@android:color/white</item>
+    </style>
+
+</resources>
